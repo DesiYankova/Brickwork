@@ -1,0 +1,13 @@
+C:\Users\Деси\Desktop\MentorMateDevCamp\MentorMateDevCamp\bin\Debug\netcoreapp3.1\MentorMateDevCamp.exe
+C:\Users\Деси\Desktop\MentorMateDevCamp\MentorMateDevCamp\bin\Debug\netcoreapp3.1\MentorMateDevCamp.deps.json
+C:\Users\Деси\Desktop\MentorMateDevCamp\MentorMateDevCamp\bin\Debug\netcoreapp3.1\MentorMateDevCamp.runtimeconfig.json
+C:\Users\Деси\Desktop\MentorMateDevCamp\MentorMateDevCamp\bin\Debug\netcoreapp3.1\MentorMateDevCamp.runtimeconfig.dev.json
+C:\Users\Деси\Desktop\MentorMateDevCamp\MentorMateDevCamp\bin\Debug\netcoreapp3.1\MentorMateDevCamp.dll
+C:\Users\Деси\Desktop\MentorMateDevCamp\MentorMateDevCamp\bin\Debug\netcoreapp3.1\MentorMateDevCamp.pdb
+C:\Users\Деси\Desktop\MentorMateDevCamp\MentorMateDevCamp\obj\Debug\netcoreapp3.1\MentorMateDevCamp.csprojAssemblyReference.cache
+C:\Users\Деси\Desktop\MentorMateDevCamp\MentorMateDevCamp\obj\Debug\netcoreapp3.1\MentorMateDevCamp.AssemblyInfoInputs.cache
+C:\Users\Деси\Desktop\MentorMateDevCamp\MentorMateDevCamp\obj\Debug\netcoreapp3.1\MentorMateDevCamp.AssemblyInfo.cs
+C:\Users\Деси\Desktop\MentorMateDevCamp\MentorMateDevCamp\obj\Debug\netcoreapp3.1\MentorMateDevCamp.csproj.CoreCompileInputs.cache
+C:\Users\Деси\Desktop\MentorMateDevCamp\MentorMateDevCamp\obj\Debug\netcoreapp3.1\MentorMateDevCamp.dll
+C:\Users\Деси\Desktop\MentorMateDevCamp\MentorMateDevCamp\obj\Debug\netcoreapp3.1\MentorMateDevCamp.pdb
+C:\Users\Деси\Desktop\MentorMateDevCamp\MentorMateDevCamp\obj\Debug\netcoreapp3.1\MentorMateDevCamp.genruntimeconfig.cache
